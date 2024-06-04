@@ -4,7 +4,7 @@ I'm a passionate software developer with a focus on backend development. Welcome
 
 ### 🖥️ Tecnologias e Ferramentas: 
 
-<img width="200px" align="right" src="![octocat-1717503032722](https://github.com/Felipecardosovargas/Felipecardosovargas/assets/128812730/fc79ffee-f6e1-4867-9eb3-f3857a7611ea)">
+<img width="250px" align="right" src="octocat-1717503032722.png">
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>

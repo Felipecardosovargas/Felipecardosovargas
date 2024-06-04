@@ -1,6 +1,6 @@
-## Hi there 👋 I'am Felipe Cardoso Vargas!
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DCDCDC&size=35&center=true&vCenter=true&width=1000&lines=Hi+there+👋;My+name+is+Felipe+Cardoso+Vargas;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
-I'm a passionate software developer with a focus on backend development. Welcome to my GitHub profile! Here's a bit about me:
+I'm a dedicated software developer with a strong emphasis on backend development. Welcome to my GitHub profile! Here’s a little about me:
 
 ### 🖥️ Tecnologias e Ferramentas: 
 

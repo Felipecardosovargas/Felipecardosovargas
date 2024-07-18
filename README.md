@@ -14,12 +14,12 @@ I'm a dedicated software developer with a strong emphasis on backend development
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
 <code><img width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mongodb/mongodb-original-wordmark.svg" title = "MONGODB"/></code>
-<code><img width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dotnetcore/dotnetcore-original.svg" title = "DOTNET"/></code>
-<code><img width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/kotlin/kotlin-original.svg" title = "KOTLIN"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" title = "ANDROID"/></code>
+<code><img width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dotnetcore/dotnetcore-original.svg" title = "DOTNET"/></code>
 <code><img width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/csharp/csharp-original.svg" title = "CSHARP"/></code>
 <code><img width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original-wordmark.svg" title = "PYTHON"/></code>
 <code><img width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/django/django-plain.svg" title = "DJANGO"/></code>
+<code><img width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original-wordmark.svg" title = "DOCKER"/></code>
 <code><img width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jupyter/jupyter-original-wordmark.svg" title = "JUPYTER"/></code>
 <code><img width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nginx/nginx-original.svg" title = "NGINX"/></code>
 <code><img width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linux/linux-original.svg" title = "LINUX"/></code>

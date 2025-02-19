@@ -6,16 +6,13 @@ I’m a passionate backend developer with a solid background in **Java** and mod
 
 <img width="250px" align="right" src="https://github.com/Felipecardosovargas/Felipecardosovargas/blob/main/octocat-1717503032722.png">
 
-<p>Key technologies I work with</p>
+<p>Key <b>technologies</b> I work with</p>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="JAVA"/></code>
   <code><img width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/spring/spring-original.svg" title="SPRING"/></code>
-    <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MYSQL"/></code>
+  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MYSQL"/></code>
   <code><img width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mongodb/mongodb-original-wordmark.svg" title="MONGODB"/></code>
-  <code><img width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original-wordmark.svg" title="DOCKER"/></code>
-  <code><img width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jenkins/jenkins-original.svg" title="JENKINS"/></code>
-  <code><img width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/kubernetes/kubernetes-line-wordmark.svg" title="KUBERNETES"/></code>
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="GIT"/></code>
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GITHUB"/></code>
   <code><img width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original-wordmark.svg" title="REACT"/></code>
@@ -24,21 +21,18 @@ I’m a passionate backend developer with a solid background in **Java** and mod
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JAVASCRIPT"/></code>
 </div>
 
-<p>Focusing on mastering modern backend technologies and frameworks</p>
+<p>Focusing on mastering modern backend technologies and<b> frameworks</b></p>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" title="TERRAFORM"/></code>
-  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/consul/consul-original-wordmark.svg" title="CONSUL"/></code>
+  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quarkus/quarkus-original.svg" title="QUARKUS"/></code>
+  <code><img width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jenkins/jenkins-original.svg" title="JENKINS"/></code>
+  <code><img width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original-wordmark.svg" title="DOCKER"/></code>
+  <code><img width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/kubernetes/kubernetes-line-wordmark.svg" title="KUBERNETES"/></code>
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg" title="ANSIBLE"/></code>
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original-wordmark.svg" title="RABBITMQ"/></code>
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" title="POSTGRESQL"/></code>
-  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quarkus/quarkus-original.svg" title="QUARKUS"/></code>
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" title="NGINX"/></code>
-  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" title="GO"/></code>
-  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++"/></code>
-  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" title="APACHE"/></code>
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" title="REDIS"/></code>
-  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original-wordmark.svg" title="SCALA"/></code>
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" title="VIM"/></code>
 </div>
 

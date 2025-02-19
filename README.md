@@ -10,9 +10,9 @@ I’m a passionate backend developer with a solid background in **Java** and mod
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="JAVA"/></code>
-  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MYSQL"/></code>
-  <code><img width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mongodb/mongodb-original-wordmark.svg" title="MONGODB"/></code>
   <code><img width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/spring/spring-original.svg" title="SPRING"/></code>
+    <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MYSQL"/></code>
+  <code><img width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mongodb/mongodb-original-wordmark.svg" title="MONGODB"/></code>
   <code><img width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original-wordmark.svg" title="DOCKER"/></code>
   <code><img width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jenkins/jenkins-original.svg" title="JENKINS"/></code>
   <code><img width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/kubernetes/kubernetes-line-wordmark.svg" title="KUBERNETES"/></code>

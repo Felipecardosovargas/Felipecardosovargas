@@ -1,47 +1,62 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DCDCDC&size=35&center=true&vCenter=true&width=1000&lines=Hi+there+👋;My+name+is+Felipe+Cardoso+Vargas;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DCDCDC&size=35&center=true&vCenter=true&width=1000&lines=Hi+there+👋;My+name+is+Felipe+Cardoso+Vargas;I'm+from+Brazil;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
-I'm a dedicated software developer with a strong emphasis on backend development. Welcome to my GitHub profile! Here’s a little about me:
+I’m a passionate backend developer with a solid background in **Java** and modern backend technologies. My primary focus is building scalable, high-performance systems and APIs. I thrive in solving complex problems and designing robust solutions with clean and efficient code. Below is a glimpse of my technical journey:
 
-### 🖥️ Tecnologias e Ferramentas: 
+### 🖥️ **Technologies & Tools:**
 
-<img width="250px" align="right" src="octocat-1717503032722.png">
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
-<code><img width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original-wordmark.svg" title = "REACT"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
-<code><img width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mongodb/mongodb-original-wordmark.svg" title = "MONGODB"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" title = "ANDROID"/></code>
-<code><img width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original-wordmark.svg" title = "PYTHON"/></code>
-<code><img width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/django/django-plain.svg" title = "DJANGO"/></code>
-<code><img width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original-wordmark.svg" title = "DOCKER"/></code>
-<code><img width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jupyter/jupyter-original-wordmark.svg" title = "JUPYTER"/></code>
-<code><img width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nginx/nginx-original.svg" title = "NGINX"/></code>
-<code><img width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linux/linux-original.svg" title = "LINUX"/></code>
-<code><img width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jenkins/jenkins-original.svg" title = "JENKINS"/></code>
-<code><img width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/kubernetes/kubernetes-line-wordmark.svg" title = "KBERNETES"/></code>
-<code><img width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dotnetcore/dotnetcore-original.svg" title = "DOTNET"/></code>
-<code><img width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/csharp/csharp-original.svg" title = "CSHARP"/></code>
+<img width="250px" align="right" src="https://github.com/Felipecardosovargas/Felipecardosovargas/blob/main/octocat-1717503032722.png">
+
+<p>Key technologies I work with</p>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="JAVA"/></code>
+  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MYSQL"/></code>
+  <code><img width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mongodb/mongodb-original-wordmark.svg" title="MONGODB"/></code>
+  <code><img width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/spring/spring-original.svg" title="SPRING"/></code>
+  <code><img width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original-wordmark.svg" title="DOCKER"/></code>
+  <code><img width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jenkins/jenkins-original.svg" title="JENKINS"/></code>
+  <code><img width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/kubernetes/kubernetes-line-wordmark.svg" title="KUBERNETES"/></code>
+  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="GIT"/></code>
+  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GITHUB"/></code>
+  <code><img width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original-wordmark.svg" title="REACT"/></code>
+  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title="HTML5"/></code>
+  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title="CSS3"/></code>
+  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JAVASCRIPT"/></code>
+</div>
+
+<p>Focusing on mastering modern backend technologies and frameworks</p>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" title="TERRAFORM"/></code>
+  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/consul/consul-original-wordmark.svg" title="CONSUL"/></code>
+  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg" title="ANSIBLE"/></code>
+  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original-wordmark.svg" title="RABBITMQ"/></code>
+  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" title="POSTGRESQL"/></code>
+  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quarkus/quarkus-original.svg" title="QUARKUS"/></code>
+  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" title="NGINX"/></code>
+  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" title="GO"/></code>
+  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++"/></code>
+  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" title="APACHE"/></code>
+  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" title="REDIS"/></code>
+  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original-wordmark.svg" title="SCALA"/></code>
+  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" title="VIM"/></code>
+</div>
 
 
 ### About Me
 
-- 💻 Backend Developer with experience in Python (Django and Flask)
-- 🌱 Currently learning Java and diving into Machine Learning
-- 🛠️ Familiar with MySQL, Spring Framework, and Apache technologies
-
-- 🚀 Always eager to learn and explore new technologies in the software development world
+- 💻 **Backend Developer** with expertise in **Java**, leveraging frameworks such as **Spring Boot** to build robust and scalable applications.
+- 🌱 Currently exploring **Microservices Architecture** and diving deeper into **Java-based technologies** such as **Spring Cloud** and **JPA** for database management.
+- 🛠️ Experienced with **RESTful APIs**, **SQL** (MySQL & PostgreSQL), and **NoSQL** (MongoDB) databases.
+- 💡 Passionate about **Clean Code** practices, **TDD**, and **DevOps** integration to streamline development and deployment workflows.
+- 🚀 Always eager to expand my knowledge in new technologies, tools, and best practices to stay on top of the rapidly evolving backend development landscape.
 
 ##
 <p align="center">
-<div>
-<a href="https://github.com/Felipecardosovargas">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipecardosovargas&layout=compact&langs_count=7&theme=dracula" alt="Top languages"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Felipecardosovargas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+  <div align-items="center">
+    <a href="https://github.com/Felipecardosovargas">
+      <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipecardosovargas&layout=compact&langs_count=7&theme=dark&text_color=ffffff" alt="Top languages"/>
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Felipecardosovargas&show_icons=true&theme=dark&include_all_commits=true&count_private=true&text_color=ffffff"/>
+    </a>
+  </div>
 </p>
-
-

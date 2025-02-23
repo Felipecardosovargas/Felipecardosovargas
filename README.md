@@ -4,7 +4,7 @@ I’m a passionate backend developer with a solid background in **Java** and mod
   
 ### 🖥️ **Technologies & Tools:**
 
-<img width="250px" align="right" src="https://github.com/Felipecardosovargas/Felipecardosovargas/blob/main/octocat-1717503032722.png">
+<img width="300px" align="right" src="https://i.pinimg.com/736x/32/7d/64/327d64b9d943890558aadda2fd01e377.jpg">
 
 <p>Key <b>technologies</b> I work with</p>
 
@@ -36,16 +36,18 @@ I’m a passionate backend developer with a solid background in **Java** and mod
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" title="VIM"/></code>
 </div>
 
-### About Me  
+### About Me
 
-- 💻 Backend Developer specializing in Java, with hands-on experience in Spring Boot to craft scalable, high-performance applications.
-- 🌱 Currently diving deep into Microservices Architecture, while honing my expertise in Spring Cloud, JPA, and Kubernetes for cloud-native development.
-- 🛠️ Proficient in building RESTful APIs, working with SQL (MySQL & PostgreSQL), NoSQL (MongoDB), and leveraging Docker for containerization.
-- 💡 Passionate about writing Clean Code, practicing TDD, and enhancing workflows through DevOps principles, always striving to streamline development and deployment processes.
-- 📚 I’m a strong believer in understanding the fundamentals — how things work under the hood, and how different pieces fit together. While I embrace the power of frameworks and libraries, I always aim to grasp their core principles and how they improve the development process.
-- 🎮 A Linux enthusiast, anime fan, and avid reader, I view technology as not only my career but also a way to think critically, learn continuously, and create innovative solutions.
+- 💻 Backend Developer specializing in **Java** and **Spring Boot**, building scalable applications.
+- 🌱 Exploring **Microservices**, **Spring Cloud**, **JPA**, and **Kubernetes**.
+- 🛠️ Skilled in **RESTful APIs**, **SQL**, **NoSQL**, and **Docker**.
+- 💡 Passionate about **Clean Code**, **TDD**, and **DevOps**.
+- 📚 Focused on mastering **fundamentals** while leveraging frameworks and libraries.
+- 🎮 Linux enthusiast, anime fan, and lifelong learner.
 
-🔗 **Feel free to reach out** or **follow my work** and updates!
+*"The people who are crazy enough to think they can change the world are the ones who do."* – Steve Jobs
+
+🔗 **Feel free to connect or follow my work!**
 
 ##
 <p align="center">

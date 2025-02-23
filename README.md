@@ -4,7 +4,7 @@ I’m a passionate backend developer with a solid background in **Java** and mod
   
 ### 🖥️ **Technologies & Tools:**
 
-<img width="350px" align="right" src="https://github.com/Felipecardosovargas/Felipecardosovargas/blob/main/stg.png">
+<img width="300px" align="right" src="https://github.com/Felipecardosovargas/Felipecardosovargas/blob/main/stg.png">
 
 <p>Key <b>technologies</b> I work with</p>
 

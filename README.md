@@ -24,7 +24,6 @@ I’m a passionate backend developer with a solid background in **Java** and mod
 <p>Focusing on mastering modern backend technologies and<b> frameworks</b></p>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quarkus/quarkus-original.svg" title="QUARKUS"/></code>
   <code><img width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jenkins/jenkins-original.svg" title="JENKINS"/></code>
   <code><img width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original-wordmark.svg" title="DOCKER"/></code>
   <code><img width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/kubernetes/kubernetes-line-wordmark.svg" title="KUBERNETES"/></code>
@@ -33,17 +32,22 @@ I’m a passionate backend developer with a solid background in **Java** and mod
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" title="POSTGRESQL"/></code>
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" title="NGINX"/></code>
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" title="REDIS"/></code>
+  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="SHELL SCRIPT"/></code>
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" title="VIM"/></code>
 </div>
 
+### About Me  
 
-### About Me
+- 💻 **Backend Developer** with expertise in **Java**, using frameworks like **Spring Boot** to build scalable and efficient applications.  
+- 🌱 Currently exploring **Microservices Architecture** and improving my skills in **Spring Cloud**, **JPA**, and **Kubernetes** for cloud-native development.  
+- 🛠️ Experienced with **RESTful APIs**, **SQL** (MySQL & PostgreSQL), **NoSQL** (MongoDB), and containerization with **Docker**.  
+- 💡 Passionate about **Clean Code**, **TDD**, and **DevOps**, always seeking to optimize development and deployment workflows.  
+- 🎮 A **Linux enthusiast**, anime fan, and avid reader, I see technology as both a career and a way to think, learn, and create.  
 
-- 💻 **Backend Developer** with expertise in **Java**, leveraging frameworks such as **Spring Boot** to build robust and scalable applications.
-- 🌱 Currently exploring **Microservices Architecture** and diving deeper into **Java-based technologies** such as **Spring Cloud** and **JPA** for database management.
-- 🛠️ Experienced with **RESTful APIs**, **SQL** (MySQL & PostgreSQL), and **NoSQL** (MongoDB) databases.
-- 💡 Passionate about **Clean Code** practices, **TDD**, and **DevOps** integration to streamline development and deployment workflows.
-- 🚀 Always eager to expand my knowledge in new technologies, tools, and best practices to stay on top of the rapidly evolving backend development landscape.
+"The people who are crazy enough to think they can change the world are the ones who do." – Steve Jobs
+
+If you're looking for someone who is always pushing boundaries and improving, let's connect! 🚀
+Feel free to reach out or follow my work.
 
 ##
 <p align="center">

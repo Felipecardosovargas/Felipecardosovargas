@@ -1,7 +1,7 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DCDCDC&size=35&center=true&vCenter=true&width=1000&lines=Hi+there+👋;My+name+is+Felipe+Cardoso+Vargas;I'm+from+Brazil;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 I’m a passionate backend developer with a solid background in **Java** and modern backend technologies. My primary focus is building scalable, high-performance systems and APIs. I thrive in solving complex problems and designing robust solutions with clean and efficient code. Below is a glimpse of my technical journey:
-
+  
 ### 🖥️ **Technologies & Tools:**
 
 <img width="250px" align="right" src="https://github.com/Felipecardosovargas/Felipecardosovargas/blob/main/octocat-1717503032722.png">
@@ -38,16 +38,14 @@ I’m a passionate backend developer with a solid background in **Java** and mod
 
 ### About Me  
 
-- 💻 **Backend Developer** with expertise in **Java**, using frameworks like **Spring Boot** to build scalable and efficient applications.  
-- 🌱 Currently exploring **Microservices Architecture** and improving my skills in **Spring Cloud**, **JPA**, and **Kubernetes** for cloud-native development.  
-- 🛠️ Experienced with **RESTful APIs**, **SQL** (MySQL & PostgreSQL), **NoSQL** (MongoDB), and containerization with **Docker**.  
-- 💡 Passionate about **Clean Code**, **TDD**, and **DevOps**, always seeking to optimize development and deployment workflows.  
-- 🎮 A **Linux enthusiast**, anime fan, and avid reader, I see technology as both a career and a way to think, learn, and create.  
+- 💻 Backend Developer specializing in Java, with hands-on experience in Spring Boot to craft scalable, high-performance applications.
+- 🌱 Currently diving deep into Microservices Architecture, while honing my expertise in Spring Cloud, JPA, and Kubernetes for cloud-native development.
+- 🛠️ Proficient in building RESTful APIs, working with SQL (MySQL & PostgreSQL), NoSQL (MongoDB), and leveraging Docker for containerization.
+- 💡 Passionate about writing Clean Code, practicing TDD, and enhancing workflows through DevOps principles, always striving to streamline development and deployment processes.
+- 📚 I’m a strong believer in understanding the fundamentals — how things work under the hood, and how different pieces fit together. While I embrace the power of frameworks and libraries, I always aim to grasp their core principles and how they improve the development process.
+- 🎮 A Linux enthusiast, anime fan, and avid reader, I view technology as not only my career but also a way to think critically, learn continuously, and create innovative solutions.
 
-"The people who are crazy enough to think they can change the world are the ones who do." – Steve Jobs
-
-If you're looking for someone who is always pushing boundaries and improving, let's connect! 🚀
-Feel free to reach out or follow my work.
+🔗 **Feel free to reach out** or **follow my work** and updates!
 
 ##
 <p align="center">

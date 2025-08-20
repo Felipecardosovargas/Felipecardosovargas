@@ -10,14 +10,14 @@ I’m a passionate **Java backend developer** with a focus on building robust an
 
 I have extensive experience with **microservices** architecture, **Docker** and **Kubernetes** deployment, and I embrace **DevOps** practices to ensure continuous integration and delivery (CI/CD) at scale. Always striving for **quality** and **efficiency**, I prioritize **Clean Code** and **Test-Driven Development (TDD)** in every project.
 
-### 🚀 **Technologies & Concepts**:
+### **Technologies & Concepts**:
 - **Languages**: Java, SQL, Bash  
 - **Frameworks**: Spring Boot, Spring Cloud, JPA  
 - **Infrastructure**: Docker, Kubernetes, Jenkins, Nginx  
 - **Databases**: MySQL, PostgreSQL, MongoDB, Redis  
 - **Practices**: Clean Code, TDD, CI/CD, Microservices
 
-I’m always refining my skills and staying updated with the latest Java innovations. If you're passionate about building top-notch backend systems, let’s connect and learn together! 🚀
+I’m always refining my skills and staying updated with the latest Java innovations. If you're passionate about building top-notch backend systems, let’s connect and learn together!
 
 
 🔗 **Feel free to connect or follow my work!**
